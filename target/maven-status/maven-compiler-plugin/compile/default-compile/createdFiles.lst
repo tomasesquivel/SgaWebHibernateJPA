@@ -1,0 +1,17 @@
+mx\com\gm\dao\GenericDAO.class
+mx\com\gm\web\ServletControlador.class
+mx\com\gm\domain\Contacto.class
+mx\com\gm\servicio\ServicioAlumno.class
+mx\com\gm\dao\AsignacionDAO.class
+mx\com\gm\dao\AlumnoDAO.class
+mx\com\gm\domain\Curso.class
+mx\com\gm\domain\Domicilio.class
+mx\com\gm\web\ServletAgregar.class
+mx\com\gm\dao\DomicilioDAO.class
+mx\com\gm\dao\ContactoDAO.class
+mx\com\gm\web\ServletRedireccionar.class
+mx\com\gm\web\ServletModificar.class
+mx\com\gm\domain\Alumno.class
+mx\com\gm\domain\Asignacion.class
+mx\com\gm\dao\CursoDAO.class
+mx\com\gm\test\daoPrueba.class
